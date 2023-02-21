@@ -1,5 +1,43 @@
 # Introduction à la programmation en bioinformatique
-## installer Cygwin sous Windows
+
+## 1. Intaller UBUNTU 22.04 LTS sous Windows 10+
+
+* Pour Windows 10. Vous pouvez installer très rapidement un shell Linux. Voici quelques liens pour y arriver :
+  * [Installer le shell Bash Linux sous Windows 10 avec WSL](https://www.youtube.com/watch?v=CyG16N3GJWo), 2020.
+  * How to install Windows Subsystem for Linux (WSL) on Windows 10, 2019.
+  * [Everything You Can Do With Windows 10’s New Bash Shell](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/), 2018.
+  ### 1.1. Installez Bash pour Windows en suivant les instructions
+ ```
+ sudo apt update && sudo apt upgrade -y
+ ```
+ 
+```bash
+ sudo apt install python3 python3-pip python3-dev python3-setuptools
+```
+
+### 1.2. Installez Jupyter Notebook en exécutant la commande suivante
+
+```bash
+sudo pip3 install jupyter
+```
+### 1.3. Vérifiez que l'installation a réussi en exécutant la commande suivante 
+
+```bash
+jupyter notebook
+```
+### 1.4.  Installer le kernel bash
+
+```bash
+pip install bash_kernel
+python3 -m pip install --upgrade pip
+python3 -m pip install bash_kernel
+```
+
+```bash
+jupyter notebook
+```
+
+## 2. installer Cygwin sous Windows
 
 Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
 
@@ -17,14 +55,6 @@ Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
 
     7. Une fois l'installation terminée, lancez le terminal Cygwin en cliquant sur le raccourci "Cygwin Terminal" sur le bureau ou dans le menu Démarrer.
 
-## Telecharger et installer conda
-
-https://docs.conda.io/en/latest/miniconda.html#windows-installers
-
-```bash
-bash Miniconda3-latest-Windows-x86_64.exe
-```
-https://docs.conda.io/en/latest/miniconda.html#windows-installers
 
 ##  Installation de Jupyter Notebook sous Cygwin
     Installer Jupyter Notebook sur Cygwin en suivant ces étapes :
