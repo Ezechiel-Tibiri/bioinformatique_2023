@@ -26,9 +26,9 @@ python get-pip.py
 ```
 ### Installez Jupyter en exécutant la commande suivante dans le terminal :
 ```bash
-pip install jupyter
+pip3 install jupyter
 # Installez un noyau Bash en exécutant la commande suivante :
-pip install bash_kernel
+pip3 install bash_kernel
 # Exécutez la commande suivante pour ajouter le noyau Bash à Jupyter : 
 python -m bash_kernel.install
 ```
