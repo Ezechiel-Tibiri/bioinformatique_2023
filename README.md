@@ -39,6 +39,8 @@ pip install bash_kernel
 # Exécutez la commande suivante pour ajouter le noyau Bash à Jupyter : 
 python -m bash_kernel.install
 ```
+PS: le repertoire partagé entre Windows et Cygwin est **/cygdrive/c/Users/votre-nom-utilisateur/Documents**
+
 ### Exécutez Jupyter Notebook en utilisant la commande suivante dans le terminal :
 
 ```bash
