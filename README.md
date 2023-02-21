@@ -19,12 +19,12 @@ Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
     Installer Jupyter Notebook sur Cygwin en suivant ces étapes :
     1. Assurez-vous que Python est installé sur votre système Cygwin en exécutant la commande `python` dans le terminal.
     ### Installez pip en exécutant la commande suivante dans le terminal :
-    ```bash
-    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+```bash
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
 ### Installez Jupyter en exécutant la commande suivante dans le terminal :
-```
+```bash
 pip install jupyter
 # Installez un noyau Bash en exécutant la commande suivante :
 pip install bash_kernel
@@ -32,9 +32,9 @@ pip install bash_kernel
 python -m bash_kernel.install
 ```
 ### Exécutez Jupyter Notebook en utilisant la commande suivante dans le terminal :
-```
-jupyter notebook
 
+```bash
+jupyter notebook
 # Accédez à Jupyter Notebook en utilisant un navigateur web à l'adresse `http://localhost:8888/`.
 ```
 ## Les commandes de base de LINUX
