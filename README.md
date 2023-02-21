@@ -19,7 +19,7 @@ Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
 
 ## Telecharger et installer conda
 
-curl https://docs.conda.io/en/latest/miniconda.html#windows-installers
+https://docs.conda.io/en/latest/miniconda.html#windows-installers
 
 ```bash
 bash Miniconda3-latest-Windows-x86_64.exe
