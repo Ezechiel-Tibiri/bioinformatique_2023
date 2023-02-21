@@ -2,13 +2,13 @@
 ## installer Cygwin sous Windows
 Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
 
-    1. Téléchargez le fichier d'installation de Cygwin depuis le site web de Cygwin à l'adresse https://cygwin.com/install.html.
+    1. Téléchargez le fichier d'installation de **Cygwin** depuis le site web de Cygwin à l'adresse https://cygwin.com/install.html.
 
     2. Double-cliquez sur le fichier d'installation pour lancer l'assistant d'installation.
 
-    3. Choisissez un répertoire d'installation pour Cygwin. Par défaut, il est installé dans C:\cygwin.
+    3. Choisissez un répertoire d'installation pour **Cygwin**. Par défaut, il est installé dans C:\cygwin.
 
-    4. Choisissez un serveur de miroir Cygwin pour télécharger les paquets. Il est recommandé de choisir un serveur proche de votre emplacement géographique.
+    4. Choisissez un serveur de miroir **Cygwin** pour télécharger les paquets. Il est recommandé de choisir un serveur proche de votre emplacement géographique.
 
     5. Sélectionnez les paquets à installer en utilisant le bouton "Sélectionner les paquets" dans l'assistant d'installation. Il est recommandé de sélectionner les paquets de base, tels que bash, gcc, make et openssh.
 
