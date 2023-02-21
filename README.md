@@ -23,7 +23,7 @@ Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
 apt-cyg install python 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
-/usr/bin/python3.9.exe -m pip install --upgrade pip
+# /usr/bin/python3.9.exe -m pip install --upgrade pip
 ```
 PS : Lancer cette commande si et seulement si la précedente commande ne marche pas
 <span style="color:red">**/usr/bin/python3.9.exe -m pip install --upgrade pip**</span>
