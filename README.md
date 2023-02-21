@@ -16,7 +16,12 @@ Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
     6. Cliquez sur le bouton "Installer" pour démarrer le processus d'installation.
 
     7. Une fois l'installation terminée, lancez le terminal Cygwin en cliquant sur le raccourci "Cygwin Terminal" sur le bureau ou dans le menu Démarrer.
-    ##  Installation de Jupyter Notebook sous Cygwin
+
+## Telecharger conda
+
+https://docs.conda.io/en/latest/miniconda.html#windows-installers
+
+##  Installation de Jupyter Notebook sous Cygwin
     Installer Jupyter Notebook sur Cygwin en suivant ces étapes :
     1. Assurez-vous que Python est installé sur votre système Cygwin en exécutant la commande `python` dans le terminal.
     
