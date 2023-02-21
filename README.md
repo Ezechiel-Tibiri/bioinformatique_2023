@@ -1,5 +1,6 @@
 # Introduction à la programmation en bioinformatique
 ## installer Cygwin sous Windows
+
 Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
 
     1. Téléchargez le fichier d'installation de **Cygwin** depuis le site web de Cygwin à l'adresse https://cygwin.com/install.html.
@@ -18,20 +19,23 @@ Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
     ##  Installation de Jupyter Notebook sous Cygwin
     Installer Jupyter Notebook sur Cygwin en suivant ces étapes :
     1. Assurez-vous que Python est installé sur votre système Cygwin en exécutant la commande `python` dans le terminal.
-    ### Installez pip en exécutant la commande suivante dans le terminal :
-```bash
-apt-cyg install python 
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    
+### Installez pip en exécutant la commande suivante dans le terminal :
+    
+```bash 
+curl -k https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 # /usr/bin/python3.9.exe -m pip install --upgrade pip
 ```
 PS : Lancer cette commande si et seulement si la précedente commande ne marche pas
 <span style="color:red">**/usr/bin/python3.9.exe -m pip install --upgrade pip**</span>
+
 ### Installez Jupyter en exécutant la commande suivante dans le terminal :
+
 ```bash
-pip3 install jupyter
+pip install --no-binary :all: jupyter
 # Installez un noyau Bash en exécutant la commande suivante :
-pip3 install bash_kernel
+pip install bash_kernel
 # Exécutez la commande suivante pour ajouter le noyau Bash à Jupyter : 
 python -m bash_kernel.install
 ```
@@ -42,5 +46,6 @@ jupyter notebook
 # Accédez à Jupyter Notebook en utilisant un navigateur web à l'adresse `http://localhost:8888/`.
 ```
 ## Les commandes de base de LINUX
+
 Vous avez [ici](https://github.com/Ezechiel-Tibiri/GNU-LINUX/blob/main/cmd_linux.md)
  les commandes de bases LINUX
