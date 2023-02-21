@@ -20,6 +20,7 @@ Vous pouvez installer Cygwin sous Windows en suivant ces étapes :
     1. Assurez-vous que Python est installé sur votre système Cygwin en exécutant la commande `python` dans le terminal.
     ### Installez pip en exécutant la commande suivante dans le terminal :
 ```bash
+apt-cyg install python 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
