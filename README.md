@@ -10,7 +10,7 @@ Dans un premier temps, nous vous suggérons d'apprendre les bases du dogme centr
 
 *Temps estimé : 4 heures.
 
-Ensuite, nous vous demandons de lire le [cours en ligne]() qui sera mis à jour au fure et à mésure que le cours progresse.
+Ensuite, nous vous demandons de lire le [cours en ligne](https://github.com/Ezechiel-Tibiri/bioinformatique_2023/blob/main/Cours_bioinfo_2023.pdf) qui sera mis à jour au fure et à mésure que le cours progresse.
 
 *Temps estimé : 8 heures.
 
