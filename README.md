@@ -253,7 +253,7 @@ Créer un <span style="color:red">jupyter notebook</span> nommé Nom-Prenom_eval
 * 6. Attribuer la permission <span style="color:red">d'**execution**</span> et rien que cela à tous les utilisateurs (2pts)
 * 7. Extraire les 17 premières lignes et les rediriger vers un nouveau fichier nommé <span style="color:red">**GCF_009858895.fasta**</span> (2pts)
 * 8. Combien de `ATG` il y 'a dans le nouveau fichier <span style="color:red">**GCF_009858895.fasta**</span> (2pts)
-* 9. Ajouter 20N (NNNNNNNNNNNNNNNNNNNN) à la fin du ficheir <span style="color:red">**GCF_009858895.fasta**</span> (2pts)
+* 9. Ajouter 20N (NNNNNNNNNNNNNNNNNNNN) à la fin du fichier <span style="color:red">**GCF_009858895.fasta**</span> (2pts)
 * 10. Deposer votre jupyter notebook sur ce [drive]()
 
 ```
