@@ -246,7 +246,7 @@ Et sur des commandes utiles
 
 Créer un <span style="color:red">jupyter notebook</span> nommé Nom-Prenom_evaluation1.ipynb où vous allez lancer les commande suivantes :
 * 1. Creer un sous-repertoire appéllé _EVALUATION_ qui sera placé dans le repertoire _cours_linux_ (2pts)
-* 2. Télécharger une séquence et le placé dans le repertoire _EVALUATION_ (créé précedement) en suivant le lien  https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.fna.gz, puis decomprésser le fichier **.gz** (2pts)
+* 2. Télécharger une séquence et la placer dans le repertoire _EVALUATION_ (créé précedement) en suivant le lien  https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.fna.gz, puis decomprésser le fichier **.gz** (2pts)
 * 3. Afficher la première ligne du fichier **GCF_009858895.2_ASM985889v3_genomic.fna**, de quel organisme s'agit-il et quel est sont numéro d'accession genBank? Affichier la taille et le nombre de ligne du fichier en question. (2pts)
 * 4. Donner le nombre de site de reconnaissance *BamH*I en <span style="color:red">`5'-GGATCC-3'`</span> et en <span style="color:red">`3'-CCTAGG-5'`</span> du fichier **GCF_009858895.2_ASM985889v3_genomic.fna**  (2pts)
 * 5. Quels sont les différents attributs (droits ou permission) du fichier **GCF_009858895.2_ASM985889v3_genomic.fna** ? (Penser à l'<span style="color:red">*user*, *group*, *other*</span>) (2pts)
