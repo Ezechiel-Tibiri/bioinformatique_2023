@@ -31,7 +31,7 @@ La première étape consiste à installer Bash pour Windows. Vous pouvez le fair
   Ensuite, vous pouvez ouvrir Bash et exécuter la commande suivante pour mettre à jour et installer les packages Python nécessaires :
   
  ```
- sudo apt update && sudo apt upgrade -y
+sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip python3-dev python3-setuptools
 
  ```
@@ -184,7 +184,7 @@ La redirection de la sortie standard (l'écran) vers un fichier permet de consul
 * `tar -xvf archive.tar /tmp` (restaure le fichier "archive.tar" dans le répertoire "**/tmp**")
 * `tar -xvof archive.tar`
 * `compress` (compression de fichiers en un seul avec l'extension "**.Z**")
-`compress fichier`
+* `compress fichier`
 * `compress -v fichier`
 * `compress fichier.tar` (compression en un fichier avec l'extension **"tar.Z"**)
 * `uncompress`(décompression ou restauration des fichiers compressés avec l'extension "**.Z**")
@@ -278,6 +278,5 @@ Créer un <span style="color:red">jupyter notebook</span> nommé _Nom-Prenom_eva
 
 **Attention la double utilisation d'un même compte n'est pas autorisé!!!**
 
-```
-                      BON COURAGE À TOUS.T.E.S
+``` BON COURAGE À TOUS.T.E.S
 ```
