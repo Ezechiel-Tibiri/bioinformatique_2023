@@ -1,0 +1,201 @@
+# HOMER Peaks
+# Peak finding parameters:
+# tag directory = ChIP-seq/results/peaks/FNR1_vs_input1/homer/FNR1_tag
+#
+# total peaks = 161
+# peak size = 177
+# peaks found using tags on both strands
+# minimum distance between peaks = 354
+# fragment length = 176
+# genome size = 4639221
+# Total tags = 9390402.0
+# Total tags in peaks = 528346.0
+# Approximate IP efficiency = 5.63%
+# tags per bp = 2.020942
+# expected tags per peak = 357.707
+# maximum tags considered per bp = 202.0
+# effective number of tags used for normalization = 10000000.0
+# Peaks have been centered at maximum tag pile-up
+# FDR rate threshold = 0.010000000
+# FDR effective poisson threshold = 4.218043e-04
+# FDR tag threshold = 423.0
+# number of putative peaks = 2612
+#
+# input tag directory = ChIP-seq/results/peaks/FNR1_vs_input1/homer/input1_tag
+# Fold over input required = 2.00
+# Poisson p-value over input required = 1.00e-02
+# Putative peaks filtered by input = 2413
+#
+# size of region used for local filtering = 10000
+# Fold over local region required = 2.00
+# Poisson p-value over local region required = 1.00e-04
+# Putative peaks filtered by local signal = 38
+#
+# Maximum fold under expected unique positions for tags = 2.00
+# Putative peaks filtered for being too clonal = 0
+#
+# cmd = findPeaks ChIP-seq/results/peaks/FNR1_vs_input1/homer/FNR1_tag -style factor -L 2 -P 0.01 -F 2 -fdr 0.01 -gsize 4639221 -fragLength auto -o ChIP-seq/results/peaks/FNR1_vs_input1/homer/FNR1_tag/peaks.txt -i ChIP-seq/results/peaks/FNR1_vs_input1/homer/input1_tag
+#
+# Column Headers:
+#PeakID	chr	start	end	strand	Normalized Tag Count	focus ratio	findPeaks Score	Total Tags (normalized to Control Experiment)	Control Tags	Fold Change vs Control	p-value vs Control	Fold Change vs Local	p-value vs Local	Clonal Fold Change
+Chromosome	1409039	1409216	Chromosome-1	1	+
+Chromosome	1720937	1721114	Chromosome-2	1	+
+Chromosome	1937396	1937573	Chromosome-3	1	+
+Chromosome	2716461	2716638	Chromosome-4	1	+
+Chromosome	1629066	1629243	Chromosome-6	1	+
+Chromosome	1298242	1298419	Chromosome-5	1	+
+Chromosome	1517239	1517416	Chromosome-7	1	+
+Chromosome	954404	954581	Chromosome-8	1	+
+Chromosome	2413325	2413502	Chromosome-9	1	+
+Chromosome	2564330	2564507	Chromosome-10	1	+
+Chromosome	771093	771270	Chromosome-11	1	+
+Chromosome	1989412	1989589	Chromosome-12	1	+
+Chromosome	1667185	1667362	Chromosome-13	1	+
+Chromosome	1164907	1165084	Chromosome-14	1	+
+Chromosome	4370436	4370613	Chromosome-15	1	+
+Chromosome	1165833	1166010	Chromosome-17	1	+
+Chromosome	84	261	Chromosome-16	1	+
+Chromosome	3146325	3146502	Chromosome-18	1	+
+Chromosome	3244745	3244922	Chromosome-19	1	+
+Chromosome	2560279	2560456	Chromosome-20	1	+
+Chromosome	3613526	3613703	Chromosome-21	1	+
+Chromosome	1004631	1004808	Chromosome-22	1	+
+Chromosome	2416951	2417128	Chromosome-23	1	+
+Chromosome	121900	122077	Chromosome-24	1	+
+Chromosome	2634095	2634272	Chromosome-26	1	+
+Chromosome	2620849	2621026	Chromosome-25	1	+
+Chromosome	2405339	2405516	Chromosome-27	1	+
+Chromosome	2892528	2892705	Chromosome-28	1	+
+Chromosome	1862619	1862796	Chromosome-29	1	+
+Chromosome	3153430	3153607	Chromosome-32	1	+
+Chromosome	816732	816909	Chromosome-30	1	+
+Chromosome	2909703	2909880	Chromosome-31	1	+
+Chromosome	1737447	1737624	Chromosome-33	1	+
+Chromosome	580442	580619	Chromosome-34	1	+
+Chromosome	3354017	3354194	Chromosome-35	1	+
+Chromosome	1636578	1636755	Chromosome-36	1	+
+Chromosome	1719643	1719820	Chromosome-37	1	+
+Chromosome	282060	282237	Chromosome-39	1	+
+Chromosome	2947234	2947411	Chromosome-38	1	+
+Chromosome	3301332	3301509	Chromosome-40	1	+
+Chromosome	1313818	1313995	Chromosome-41	1	+
+Chromosome	33973	34150	Chromosome-42	1	+
+Chromosome	878128	878305	Chromosome-43	1	+
+Chromosome	2068379	2068556	Chromosome-44	1	+
+Chromosome	1870390	1870567	Chromosome-45	1	+
+Chromosome	3982399	3982576	Chromosome-47	1	+
+Chromosome	3493876	3494053	Chromosome-46	1	+
+Chromosome	4640463	4640640	Chromosome-48	1	+
+Chromosome	4287581	4287758	Chromosome-50	1	+
+Chromosome	2729365	2729542	Chromosome-51	1	+
+Chromosome	2818340	2818517	Chromosome-49	1	+
+Chromosome	3281733	3281910	Chromosome-52	1	+
+Chromosome	2533505	2533682	Chromosome-53	1	+
+Chromosome	1547204	1547381	Chromosome-55	1	+
+Chromosome	4168271	4168448	Chromosome-54	1	+
+Chromosome	3950360	3950537	Chromosome-56	1	+
+Chromosome	3656092	3656269	Chromosome-57	1	+
+Chromosome	3155101	3155278	Chromosome-59	1	+
+Chromosome	855827	856004	Chromosome-58	1	+
+Chromosome	4175689	4175866	Chromosome-61	1	+
+Chromosome	4392437	4392614	Chromosome-60	1	+
+Chromosome	2460959	2461136	Chromosome-63	1	+
+Chromosome	3318121	3318298	Chromosome-62	1	+
+Chromosome	1399445	1399622	Chromosome-64	1	+
+Chromosome	4349132	4349309	Chromosome-65	1	+
+Chromosome	1279699	1279876	Chromosome-68	1	+
+Chromosome	4049905	4050082	Chromosome-66	1	+
+Chromosome	4404638	4404815	Chromosome-69	1	+
+Chromosome	3575029	3575206	Chromosome-70	1	+
+Chromosome	3719815	3719992	Chromosome-67	1	+
+Chromosome	4133640	4133817	Chromosome-72	1	+
+Chromosome	3931103	3931280	Chromosome-73	1	+
+Chromosome	83501	83678	Chromosome-71	1	+
+Chromosome	1657900	1658077	Chromosome-76	1	+
+Chromosome	2344448	2344625	Chromosome-77	1	+
+Chromosome	4606149	4606326	Chromosome-75	1	+
+Chromosome	3946859	3947036	Chromosome-78	1	+
+Chromosome	3637509	3637686	Chromosome-79	1	+
+Chromosome	4382322	4382499	Chromosome-74	1	+
+Chromosome	3785093	3785270	Chromosome-82	1	+
+Chromosome	3428601	3428778	Chromosome-86	1	+
+Chromosome	2731207	2731384	Chromosome-87	1	+
+Chromosome	1839327	1839504	Chromosome-80	1	+
+Chromosome	3708508	3708685	Chromosome-85	1	+
+Chromosome	1765063	1765240	Chromosome-89	1	+
+Chromosome	4040591	4040768	Chromosome-88	1	+
+Chromosome	1991865	1992042	Chromosome-83	1	+
+Chromosome	3453226	3453403	Chromosome-81	1	+
+Chromosome	4462801	4462978	Chromosome-90	1	+
+Chromosome	4166421	4166598	Chromosome-91	1	+
+Chromosome	780943	781120	Chromosome-92	1	+
+Chromosome	3941801	3941978	Chromosome-93	1	+
+Chromosome	225382	225559	Chromosome-96	1	+
+Chromosome	696832	697009	Chromosome-97	1	+
+Chromosome	3639849	3640026	Chromosome-94	1	+
+Chromosome	3943345	3943522	Chromosome-95	1	+
+Chromosome	4035526	4035703	Chromosome-99	1	+
+Chromosome	4037149	4037326	Chromosome-100	1	+
+Chromosome	940665	940842	Chromosome-101	1	+
+Chromosome	2521113	2521290	Chromosome-104	1	+
+Chromosome	3275105	3275282	Chromosome-105	1	+
+Chromosome	223768	223945	Chromosome-109	1	+
+Chromosome	4586736	4586913	Chromosome-108	1	+
+Chromosome	3658357	3658534	Chromosome-111	1	+
+Chromosome	2518054	2518231	Chromosome-113	1	+
+Chromosome	4209684	4209861	Chromosome-112	1	+
+Chromosome	3056022	3056199	Chromosome-115	1	+
+Chromosome	1610651	1610828	Chromosome-117	1	+
+Chromosome	3322330	3322507	Chromosome-116	1	+
+Chromosome	4208142	4208319	Chromosome-118	1	+
+Chromosome	4565793	4565970	Chromosome-114	1	+
+Chromosome	1833238	1833415	Chromosome-120	1	+
+Chromosome	2379192	2379369	Chromosome-119	1	+
+Chromosome	2924239	2924416	Chromosome-124	1	+
+Chromosome	4179694	4179871	Chromosome-121	1	+
+Chromosome	3447954	3448131	Chromosome-126	1	+
+Chromosome	1754574	1754751	Chromosome-127	1	+
+Chromosome	2298181	2298358	Chromosome-125	1	+
+Chromosome	4178323	4178500	Chromosome-129	1	+
+Chromosome	1031493	1031670	Chromosome-131	1	+
+Chromosome	3307945	3308122	Chromosome-133	1	+
+Chromosome	4568690	4568867	Chromosome-138	1	+
+Chromosome	528942	529119	Chromosome-143	1	+
+Chromosome	3183547	3183724	Chromosome-148	1	+
+Chromosome	913845	914022	Chromosome-150	1	+
+Chromosome	2090025	2090202	Chromosome-146	1	+
+Chromosome	4107391	4107568	Chromosome-139	1	+
+Chromosome	236886	237063	Chromosome-153	1	+
+Chromosome	262834	263011	Chromosome-155	1	+
+Chromosome	4111457	4111634	Chromosome-149	1	+
+Chromosome	2550498	2550675	Chromosome-159	1	+
+Chromosome	29534	29711	Chromosome-162	1	+
+Chromosome	1157662	1157839	Chromosome-151	1	+
+Chromosome	3267499	3267676	Chromosome-164	1	+
+Chromosome	3474510	3474687	Chromosome-165	1	+
+Chromosome	4602827	4603004	Chromosome-163	1	+
+Chromosome	1435639	1435816	Chromosome-169	1	+
+Chromosome	863490	863667	Chromosome-172	1	+
+Chromosome	4573483	4573660	Chromosome-176	1	+
+Chromosome	747730	747907	Chromosome-177	1	+
+Chromosome	1277790	1277967	Chromosome-189	1	+
+Chromosome	3741528	3741705	Chromosome-194	1	+
+Chromosome	2755648	2755825	Chromosome-198	1	+
+Chromosome	3219112	3219289	Chromosome-201	1	+
+Chromosome	401004	401181	Chromosome-206	1	+
+Chromosome	1185734	1185911	Chromosome-203	1	+
+Chromosome	1032051	1032228	Chromosome-185	1	+
+Chromosome	916117	916294	Chromosome-215	1	+
+Chromosome	2746096	2746273	Chromosome-213	1	+
+Chromosome	4376835	4377012	Chromosome-220	1	+
+Chromosome	4617026	4617203	Chromosome-227	1	+
+Chromosome	1746418	1746595	Chromosome-225	1	+
+Chromosome	2765470	2765647	Chromosome-238	1	+
+Chromosome	1019945	1020122	Chromosome-239	1	+
+Chromosome	939275	939452	Chromosome-245	1	+
+Chromosome	2266050	2266227	Chromosome-266	1	+
+Chromosome	2850656	2850833	Chromosome-255	1	+
+Chromosome	1779066	1779243	Chromosome-305	1	+
+Chromosome	3194626	3194803	Chromosome-315	1	+
+Chromosome	961753	961930	Chromosome-340	1	+
+Chromosome	1250865	1251042	Chromosome-399	1	+
