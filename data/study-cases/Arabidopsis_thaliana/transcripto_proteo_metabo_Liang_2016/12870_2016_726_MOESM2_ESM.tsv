@@ -1,0 +1,108 @@
+	2 folds for RNA / 1.5 folds for protein up-regulated															
+	1.5folds for RNA / 1.33 folds for protein up-regulated															
+	1.2 folds for protein up-regulated															
+	2 folds for RNA / 1.5 folds for protein down-regulated															
+	1.5folds for RNA / 1.33 folds for protein down-regulated															
+	1.2 folds for protein down-regulated															
+Additional file 2. Transcriptional and translational profiles of chloroplast-encoded genes																
+									Average	SE	Average	SE	Average	SE		
+GeneID	T0 (RPKM)	T1 (RPKM)	T8 (RPKM)	T1:T0 (FC)	T8:T0 (FC)	T8:T1 (FC)	Unused	Peptides(95%)	T1:T0 	T1:T0	T8:T1 	T8:T1	T8:T0 	T8:T0	Protein	Gene Model Description
+ATCG00020.1	588649 	552912 	503717 	0,94 	0,86 	0,91 	42,5 	43 	0,64 	0,17 	0,55 	0,19 	0,29 	0,07 	psbA	Encodes chlorophyll binding protein D1, a part of the photosystem II reaction center core
+ATCG00040.1	3422 	2755 	3582 	0,80 	1,05 	1,30 	-	-	-	-	-	-	-	-	matK	Encodes a maturase located in the trnK intron in the chloroplast genome.
+ATCG00050.1	296 	278 	306 	0,94 	1,03 	1,10 	-	-	-	-	-	-	-	-	rps16	Homologous to the bacterial ribosomal protein S16
+ATCG00065.1	184 	229 	290 	1,24 	1,58 	1,27 	-	-	-	-	-	-	-	-	rps12a	Chloroplast gene encoding ribosomal protein s12. The gene is located in three distinct loci on the chloroplast genome and is transpliced to make one transcript.
+ATCG00070.1	10621 	11470 	11611 	1,08 	1,09 	1,01 	-	-	-	-	-	-	-	-	psbK	PSII K protein
+ATCG00080.1	1844 	1882 	2249 	1,02 	1,22 	1,20 	-	-	-	-	-	-	-	-	psbI	PSII I protein
+ATCG00120.1	5261 	6456 	6885 	1,23 	1,31 	1,07 	98,4 	97 	0,97 	0,01 	1,02 	0,01 	1,00 	0,01 	atpA	Encodes the ATPase alpha subunit, which is a subunit of ATP synthase and part of the CF1 portion which catalyzes the conversion of ADP to ATP using the proton motive force. This complex is located in the thylakoid membrane of the chloroplast.
+ATCG00130.1	6602 	7308 	9004 	1,11 	1,36 	1,23 	23,4 	17 	0,98 	0,21 	0,79 	0,18 	0,78 	0,21 	atpF	ATPase F subunit.
+ATCG00140.1	9592 	10014 	10848 	1,04 	1,13 	1,08 	-	-	-	-	-	-	-	-	atpH	ATPase III subunit
+ATCG00150.1	3413 	3715 	4169 	1,09 	1,22 	1,12 	1,4 	3 	0,64 	0,11 	1,10 	0,22 	0,64 	0,07 	atpI	Encodes a subunit of ATPase complex CF0, which is a proton channel that supplies the proton motive force to drive ATP synthesis by CF1 portion of the complex.
+ATCG00160.1	173 	216 	214 	1,25 	1,24 	0,99 	15,8 	8 	0,80 	0,06 	1,40 	0,26 	1,09 	0,20 	rps2	Chloroplast ribosomal protein S2
+ATCG00170.1	119 	137 	131 	1,15 	1,10 	0,95 	24,4 	16 	0,99 	0,00 	1,00 	0,01 	1,00 	0,01 	rpoC2	RNA polymerase beta' subunit-2
+ATCG00180.1	301 	377 	359 	1,25 	1,19 	0,95 	8,8 	8 	1,05 	0,07 	0,87 	0,04 	0,90 	0,08 	rpoC1	RNA polymerase beta' subunit-1
+ATCG00190.1	123 	141 	130 	1,14 	1,06 	0,92 	20,2 	16 	1,05 	0,12 	0,89 	0,07 	0,95 	0,14 	rpoB	Chloroplast DNA-dependent RNA polymerase B subunit. The transcription of this gene is regulated by a nuclear encoded RNA polymerase. This gene has been transferred to mitochondrial genome during crucifer evolution.
+ATCG00220.1	1760 	1421 	1968 	0,81 	1,12 	1,39 	-	-	-	-	-	-	-	-	psbM	PSII low MW protein
+ATCG00270.1	3727 	5038 	4373 	1,35 	1,17 	0,87 	27,8 	29 	0,73 	0,09 	0,38 	0,04 	0,27 	0,02 	psbD	PSII D2 protein
+ATCG00280.1	5239 	7317 	7408 	1,40 	1,41 	1,01 	52,9 	47 	0,53 	0,15 	0,59 	0,15 	0,26 	0,02 	psbC	Chloroplast gene encoding a CP43 subunit of  the photosystem II reaction center. promoter contains a blue-light responsive element.
+ATCG00290.1	96 	155 	205 	1,62 	2,14 	1,32 	-	-	-	-	-	-	-	-	TRNS.2	tRNA-Ser
+ATCG00300.1	575 	667 	775 	1,16 	1,35 	1,16 	-	-	-	-	-	-	-	-	ycf9	Encodes PsbZ, which is a subunit of photosystem II. In Chlamydomonas, this protein has been shown to be essential in the interaction between PS II and the light harvesting complex II.
+ATCG00330.1	4927 	6087 	6586 	1,24 	1,34 	1,08 	8,1 	5 	1,25 	0,16 	1,11 	0,14 	1,35 	0,08 	rps14	30S chloroplast ribosomal protein S14
+ATCG00340.1	4126 	5032 	5396 	1,22 	1,31 	1,07 	57,4 	53 	0,70 	0,21 	0,83 	0,25 	0,43 	0,01 	psaB	Encodes the D1 subunit of photosystem I  and II reaction centers.
+ATCG00350.1	3683 	4698 	5022 	1,28 	1,36 	1,07 	65,5 	48 	0,59 	0,13 	0,74 	0,17 	0,39 	0,04 	psaA	"Encodes psaA protein comprising the reaction center for photosystem I along with psaB protein; hydrophobic protein encoded by the chloroplast genome."
+ATCG00360.1	904 	1057 	1209 	1,17 	1,34 	1,14 	-	-	-	-	-	-	-	-	ycf3	Encodes a protein required for photosystem I assembly and stability. In Chlamydomonas reinhardtii, this protein seems to act as a PSI specific chaperone facilitating the assembly of the complex by interacting with PsaA and PsaD. A loss of function mutation in tobacco leads to a loss of photosystem I.
+ATCG00380.1	1002 	1093 	1139 	1,09 	1,14 	1,04 	23,5 	17 	2,00 	0,40 	1,03 	0,11 	2,06 	0,43 	rps4	Chloroplast encoded ribosomal protein S4
+ATCG00420.1	3039 	3236 	3405 	1,06 	1,12 	1,05 	2,0 	1 	1,01 	0,13 	1,32 	0,29 	1,25 	0,19 	ndhJ	Encodes NADH dehydrogenase subunit J.  Its transcription is increased upon sulfur depletion.
+ATCG00430.1	3404 	3662 	4083 	1,08 	1,20 	1,12 	11,8 	6 	1,21 	0,06 	0,91 	0,04 	1,11 	0,07 	psbG	Encodes a protein which was originally thought to be part of photosystem II but its wheat homolog was later shown to encode for subunit K of NADH dehydrogenase.
+ATCG00440.1	2019 	2289 	2415 	1,13 	1,20 	1,05 	-	-	-	-	-	-	-	-	ndhC	Encodes NADH dehydrogenase D3 subunit of the chloroplast NAD(P)H dehydrogenase complex
+ATCG00470.1	7959 	8997 	9765 	1,13 	1,23 	1,09 	19,2 	21 	0,54 	0,05 	2,39 	0,45 	1,29 	0,25 	atpE	ATPase epsilon subunit
+ATCG00480.1	6108 	7294 	7163 	1,19 	1,17 	0,98 	126,4 	158 	0,98 	0,00 	1,00 	0,00 	0,99 	0,00 	atpB	Chloroplast-encoded gene for beta subunit of ATP synthase
+ATCG00490.1	143946 	155289 	185186 	1,08 	1,29 	1,19 	242,1 	314 	0,98 	0,00 	1,00 	0,00 	0,99 	0,00 	rbcL	Large subunit of RUBISCO. Protein is tyrosine-phosphorylated and its phosphorylation state is modulated in response to ABA in Arabidopsis thaliana seeds.
+ATCG00500.1	576 	634 	623 	1,10 	1,08 	0,98 	16,7 	9 	0,81 	0,11 	0,97 	0,15 	0,76 	0,12 	accD	Encodes the carboxytransferase beta subunit of the Acetyl-CoA carboxylase (ACCase) complex in plastids. This complex catalyzes the carboxylation of acetyl-CoA to produce malonyl-CoA, the first committed step in fatty acid synthesis.
+ATCG00510.1	1128 	1060 	1169 	0,94 	1,04 	1,10 	-	-	-	-	-	-	-	-	psaI	Encodes subunit I of photosystem I.
+ATCG00520.1	1560 	1730 	1659 	1,11 	1,06 	0,96 	3,3 	3 	0,85 	0,05 	0,90 	0,05 	0,75 	0,03 	ycf4	Encodes a protein required for photosystem I assembly and stability. In cyanobacteria, loss of function mutation in this gene increases PSII/PSI ratio without any influence on photoautotrophic growth.
+ATCG00530.1	2153 	2284 	2178 	1,06 	1,01 	0,95 	-	-	-	-	-	-	-	-	ycf10	Hypothetical protein
+ATCG00540.1	3619 	3894 	4272 	1,08 	1,18 	1,10 	50,4 	48 	0,51 	0,06 	1,55 	0,18 	0,76 	0,05 	petA	"Encodes cytochrome f apoprotein; involved in photosynthetic electron transport chain; encoded by the chloroplast genome and is transcriptionally repressed by a nuclear gene HCF2."
+ATCG00550.1	886 	935 	1383 	1,06 	1,56 	1,48 	-	-	-	-	-	-	-	-	psbJ	PSII component
+ATCG00560.1	1060 	1098 	1909 	1,04 	1,80 	1,74 	-	-	-	-	-	-	-	-	psbL	PSII L protein
+ATCG00570.1	4693 	5194 	6790 	1,11 	1,45 	1,31 	2,8 	2 	1,06 	0,20 	0,65 	0,12 	0,70 	0,19 	psbF	PSII cytochrome b559
+ATCG00580.1	12702 	14167 	18390 	1,12 	1,45 	1,30 	10,0 	5 	1,26 	0,31 	0,70 	0,04 	0,89 	0,21 	psbE	PSII cytochrome b559. There have been many speculations about the function of Cyt b559, but the most favored at present is that it plays a protective role by acting as an electron acceptor or electron donor under conditions when electron flow through PSII is not optimized.
+ATCG00590.1	98 	100 	111 	1,02 	1,13 	1,11 	-	-	-	-	-	-	-	-	orf31	Hypothetical protein
+ATCG00600.1	632 	601 	753 	0,95 	1,19 	1,25 	-	-	-	-	-	-	-	-	petG	Cytochrome b6-f complex, subunit V. Disruption of homologous gene in Chlamydomonas results in disruption of cytochrome b6-f complex.
+ATCG00630.1	11780 	9485 	13866 	0,81 	1,18 	1,46 	-	-	-	-	-	-	-	-	psaJ	Encodes subunit J of photosystem I.
+ATCG00640.1	4551 	3985 	3761 	0,88 	0,83 	0,94 	-	-	-	-	-	-	-	-	rpl33	Encodes a chloroplast ribosomal protein L33, a constituent of the large subunit of the ribosomal complex
+ATCG00650.1	2027 	1630 	1520 	0,80 	0,75 	0,93 	10,0 	6 	1,33 	0,15 	1,37 	0,20 	1,77 	0,19 	rps18	Chloroplast-encoded ribosomal protein S18
+ATCG00660.1	811 	995 	1257 	1,23 	1,55 	1,26 	15,2 	9 	2,34 	0,53 	0,99 	0,10 	2,22 	0,49 	rpl20	Encodes a chloroplast ribosomal protein L20, a constituent of the large subunit of the ribosomal complex
+ATCG00670.1	3661 	3442 	5072 	0,94 	1,39 	1,47 	2,2 	3 	1,00 	0,02 	1,01 	0,02 	1,01 	0,01 	clpP	Encodes the only ClpP (caseinolytic protease) encoded within the plastid genome.  Contains a highly conserved catalytic triad of Ser-type proteases (Ser-His-Asp). Part of the 350 kDa chloroplast Clp complex. The name reflects nomenclature described in Adam et. al (2001).
+ATCG00680.1	11313 	13869 	13558 	1,23 	1,20 	0,98 	71,7 	85 	0,98 	0,00 	1,00 	0,01 	0,98 	0,00 	psbB	Encodes for CP47, subunit of the photosystem II reaction center.
+ATCG00690.1	126 	126 	159 	1,00 	1,26 	1,26 	-	-	-	-	-	-	-	-	psbT	Encodes photosystem II 5 kD protein subunit PSII-T. This is a plastid-encoded gene (PsbTc) which also has a nuclear-encoded paralog (PsbTn).
+ATCG00700.1	3629 	3977 	4808 	1,10 	1,32 	1,21 	-	-	-	-	-	-	-	-	psbN	PSII low MW protein
+ATCG00710.1	2891 	3271 	3749 	1,13 	1,30 	1,15 	4,0 	3 	0,73 	0,14 	1,03 	0,24 	0,68 	0,09 	psbH	Encodes a 8 kD phosphoprotein that is a component of the photosystem II oxygen evolving core. Its exact molecular function has not been determined but it may play a role in mediating electron transfer between the secondary quinone acceptors, QA and QB, associated with the acceptor side of PSII.
+ATCG00720.1	6509 	7011 	6474 	1,08 	0,99 	0,92 	12,1 	7 	0,72 	0,16 	0,66 	0,20 	0,49 	0,20 	petB	Encodes the cytochrome b(6) subunit of the cytochrome b6f complex.
+ATCG00730.1	9862 	10303 	10524 	1,04 	1,07 	1,02 	4,1 	4 	1,22 	0,29 	0,71 	0,06 	0,86 	0,22 	petD	A chloroplast gene encoding subunit IV of the cytochrome b6/f complex
+ATCG00740.1	1163 	1207 	1212 	1,04 	1,04 	1,00 	10,2 	8 	0,61 	0,04 	1,36 	0,11 	0,86 	0,05 	rpoA	RNA polymerase alpha subunit
+ATCG00750.1	1351 	1626 	1454 	1,20 	1,08 	0,89 	10,2 	6 	1,86 	0,18 	1,26 	0,14 	2,32 	0,22 	rps11	30S chloroplast ribosomal protein S11
+ATCG00760.1	317 	395 	426 	1,25 	1,34 	1,08 	-	-	-	-	-	-	-	-	rpl36	Encodes a chloroplast ribosomal protein L36, a constituent of the large subunit of the ribosomal complex
+ATCG00770.1	1297 	1461 	1506 	1,13 	1,16 	1,03 	17,7 	14 	1,31 	0,10 	1,13 	0,25 	1,48 	0,35 	rps8	Chloroplast 30S ribosomal protein S8
+ATCG00780.1	1231 	1333 	1632 	1,08 	1,33 	1,22 	18,3 	12 	1,16 	0,13 	1,01 	0,09 	1,16 	0,09 	rpl14	Encodes a chloroplast ribosomal protein L14, a constituent of the large subunit of the ribosomal complex
+ATCG00790.1	1879 	2000 	2089 	1,06 	1,11 	1,04 	10,0 	7 	1,25 	0,15 	1,32 	0,24 	1,55 	0,17 	rpl16	Chloroplast gene encoding a ribosomal protein L16, which is a constituent of 50S large ribosomal subunit
+ATCG00800.1	1022 	1113 	1340 	1,09 	1,31 	1,20 	28,0 	21 	1,16 	0,19 	0,81 	0,03 	0,94 	0,16 	rps3	Encodes a chloroplast ribosomal protein S3, a constituent of the small subunit of the ribosomal complex
+ATCG00810.1	602 	643 	727 	1,07 	1,21 	1,13 	10,7 	9 	1,03 	0,08 	1,07 	0,07 	1,11 	0,10 	rpl22	Encodes a chloroplast ribosomal protein L22, a constituent of the large subunit of the ribosomal complex
+ATCG00820.1	778 	892 	983 	1,15 	1,26 	1,10 	11,0 	7 	1,96 	0,54 	1,23 	0,35 	2,58 	1,03 	rps19	Encodes a 6.8-kDa protein of the small ribosomal subunit.
+ATCG00830.1	1445 	1866 	1934 	1,29 	1,34 	1,04 	21,7 	19 	0,94 	0,07 	0,82 	0,04 	0,79 	0,04 	rpl2.1	Encodes a chloroplast ribosomal protein L2, a constituent of the large subunit of the ribosomal complex
+ATCG00840.1	782 	793 	862 	1,01 	1,10 	1,09 	5,6 	6 	1,25 	0,18 	1,56 	0,21 	1,90 	0,06 	rpl23.1	One of two chloroplast genes that encode chloroplast ribosomal protein L23, a constituent of the large subunit of the ribosomal complex
+ATCG00860.1	623 	624 	620 	1,00 	1,00 	0,99 	16,2 	11 	0,99 	0,02 	0,92 	0,03 	0,91 	0,03 	ycf2.1	Encodes an unknown protein. This gene is regulated by AtSIG6 transcriptionally.
+ATCG00870.1	670 	690 	701 	1,03 	1,05 	1,02 	6,0 	6 	0,92 	0,06 	0,92 	0,16 	0,85 	0,14 	orf77.1	Hypothetical protein
+ATCG00890.1	1748 	1778 	1999 	1,02 	1,14 	1,12 	-	-	-	-	-	-	-	-	ndhB.1	NADH dehydrogenase ND2
+ATCG00900.1	2818 	3583 	4113 	1,27 	1,46 	1,15 	12,4 	8 	1,30 	0,16 	1,35 	0,19 	1,69 	0,13 	rps7.1	Encodes a chloroplast ribosomal protein S7, a constituent of the small subunit of the ribosomal complex
+ATCG00905.1	24 	29 	41 	1,21 	1,74 	1,44 	9,8 	6 	1,19 	0,09 	1,11 	0,07 	1,31 	0,06 	rps12c	Chloroplast gene encoding ribosomal protein s12. The gene is located in three distinct loci on the chloroplast genome and is transpliced to make one transcript.
+ATCG00920.1	35 	27 	15 	0,78 	0,42 	0,54 	-	-	-	-	-	-	-	-	RRN16S.1	Chloroplast-encoded 16S ribosomal RNA
+ATCG00950.1	73 	76 	38 	1,04 	0,52 	0,50 	-	-	-	-	-	-	-	-	RRN23S.1	Chloroplast-encoded 23S ribosomal RNA
+ATCG00960.1	2 	1 	0 	0,41 	0,00 	0,00 	-	-	-	-	-	-	-	-	RRN4.5S.1	Chloroplast-encoded 4.5S ribosomal RNA, which is a constituent of the 50S large subunit of plastidic ribosome.
+ATCG00970.1	0 	1 	0 	3,05 	1,16 	0,38 	-	-	-	-	-	-	-	-	RRN5S	Chloroplast-encoded 5S ribosomal RNA
+ATCG01000.1	0 	0 	0 	1,02 	0,77 	0,76 	-	-	-	-	-	-	-	-	ycf1.1	Hypothetical protein
+ATCG01010.1	1067 	941 	889 	0,88 	0,83 	0,94 	14,0 	9 	1,37 	0,35 	0,69 	0,04 	0,99 	0,25 	ndhF	Chloroplast encoded  NADH dehydrogenase unit.
+ATCG01020.1	3043 	2496 	2865 	0,82 	0,94 	1,15 	6,0 	3 	1,04 	0,05 	1,28 	0,07 	1,32 	0,03 	rpl32	Encodes a chloroplast ribosomal protein L32, a constituent of the large subunit of the ribosomal complex
+ATCG01040.1	854 	841 	910 	0,99 	1,07 	1,08 	-	-	-	-	-	-	-	-	ycf5	Hypothetical protein
+ATCG01050.1	2753 	2836 	2825 	1,03 	1,03 	1,00 	-	-	-	-	-	-	-	-	ndhD	Represents a plastid-encoded subunit of a NAD(P)H dehydrogenase complex.  Its mRNA is edited at four positions.  Translation data is not available for this gene.
+ATCG01060.1	5052 	5019 	5496 	0,99 	1,09 	1,10 	6,5 	6 	0,88 	0,14 	0,90 	0,27 	0,77 	0,24 	psaC	Encodes the PsaC subunit of photosystem I.
+ATCG01070.1	3220 	2954 	2835 	0,92 	0,88 	0,96 	2,0 	1 	0,86 	0,24 	1,77 	0,49 	1,23 	0,13 	ndhE	NADH dehydrogenase ND4L
+ATCG01080.1	1796 	1788 	1617 	1,00 	0,90 	0,90 	-	-	-	-	-	-	-	-	ndhG	NADH dehydrogenase ND6
+ATCG01090.1	1306 	1326 	1093 	1,02 	0,84 	0,82 	2,4 	2 	2,84 	1,14 	0,60 	0,15 	1,40 	0,42 	ndhI	Encodes subunit of the chloroplast NAD(P)H dehydrogenase complex
+ATCG01100.1	2619 	2637 	2396 	1,01 	0,92 	0,91 	6,1 	3 	0,77 	0,07 	1,06 	0,08 	0,81 	0,05 	ndhA	NADH dehydrogenase ND1
+ATCG01110.1	429 	496 	407 	1,16 	0,95 	0,82 	25,8 	13 	0,65 	0,14 	1,50 	0,39 	0,85 	0,11 	ndhH	Encodes the 49KDa plastid NAD(P)H dehydrogenase subunit H protein.  Its transcription is regulated by an ndhF-specific plastid sigma factor, SIG4.
+ATCG01120.1	196 	215 	209 	1,10 	1,07 	0,97 	7,1 	5 	0,93 	0,15 	1,28 	0,28 	1,18 	0,30 	rps15	Encodes a chloroplast ribosomal protein S15, a constituent of the small subunit of the ribosomal complex
+ATCG01130.1	215 	212 	234 	0,99 	1,09 	1,11 	32,5 	18 	0,86 	0,10 	1,17 	0,19 	0,97 	0,10 	ycf1.2	Hypothetical protein
+ATCG01160.1	0 	1 	0 	3,05 	1,16 	0,38 	-	-	-	-	-	-	-	-	RRN5S	Chloroplast-encoded 5S ribosomal RNA, which is a component of the 50S large subunit of the plastidic ribosome.
+ATCG01170.1	2 	1 	0 	0,41 	0 	0,00 	-	-	-	-	-	-	-	-	RRN4.5S.2	Chloroplast-encoded 4.5S ribosomal RNA, which is part of the 50S large ribosomal subunit in plastids
+ATCG01180.1	74 	77 	39 	1,05 	0,52 	0,50 	-	-	-	-	-	-	-	-	RRN23S.2	Chloroplast-encoded 23S ribosomal RNA
+ATCG01210.1	35 	27 	15 	0,78 	0,42 	0,54 	-	-	-	-	-	-	-	-	RRN16S.2	Chloroplast-encoded 16S ribosomal RNA
+ATCG01230.1	215 	278 	359 	1,29 	1,67 	1,29 	9,8 	6 	1,19 	0,09 	1,11 	0,07 	1,31 	0,06 	rps12b	Chloroplast gene encoding ribosomal protein s12. The gene is located in three distinct loci on the chloroplast genome and is transpliced to make one transcript.
+ATCG01240.1	2818 	3583 	4113 	1,27 	1,46 	1,15 	12,4 	8 	1,30 	0,16 	1,35 	0,19 	1,69 	0,13 	rps7.2	30S chloroplast ribosomal protein S7
+ATCG01250.1	1748 	1778 	1999 	1,02 	1,14 	1,12 	-	-	-	-	-	-	-	-	ndhB.2	NADH dehydrogenase ND2
+ATCG01270.1	670 	690 	701 	1,03 	1,05 	1,02 	6,0 	6 	0,92 	0,06 	0,92 	0,16 	0,85 	0,14 	orf77.2	Hypothetical protein
+ATCG01280.1	628 	630 	624 	1,00 	0,99 	0,99 	16,2 	11 	0,99 	0,02 	0,92 	0,03 	0,91 	0,03 	ycf2.2	Hypothetical protein
+ATCG01300.1	782 	793 	862 	1,01 	1,10 	1,09 	5,6 	6 	1,25 	0,18 	1,56 	0,21 	1,90 	0,06 	rpl23.2	One of two chloroplast genes that encode  chloroplast ribosomal protein L23, a constituent of the large subunit of the ribosomal complex
+ATCG01310.1	1445 	1866 	1934 	1,29 	1,34 	1,04 	21,7 	19 	0,94 	0,07 	0,82 	0,04 	0,79 	0,04 	rpl2.2	Encodes a chloroplast ribosomal protein L2, a constituent of the large subunit of the ribosomal complex
+																
+"""-"" means data were not available"																
+(ATCG00830-ATCG00900) and (ATCG1240-ATCG1310) are two inverted repeats.																

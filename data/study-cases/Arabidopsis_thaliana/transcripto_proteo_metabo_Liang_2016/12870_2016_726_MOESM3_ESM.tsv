@@ -1,0 +1,137 @@
+	2 folds for RNA / 1.5 folds for protein up-regulated															
+	1.5folds for RNA / 1.33 folds for protein up-regulated															
+	1.2 folds for protein up-regulated															
+	2 folds for RNA / 1.5 folds for protein down-regulated															
+	1.5folds for RNA / 1.33 folds for protein down-regulated															
+	1.2 folds for protein down-regulated															
+Additional file 3. Transcriptional and translational profiles of mitochondrion-encoded genes																
+									Average	SE	Average	SE	Average	SE		
+GeneID	T0 (RPKM)	T1 (RPKM)	T8 (RPKM)	T1:T0 (FC)	T8:T0 (FC)	T8:T1 (FC)	Unused	Peptides(95%)	T1:T0 	T1:T0	T8:T1 	T8:T1	T8:T0 	T8:T0	Proteins	Gene Model Description
+ATMG00010.1	3 	6 	3 	1,87 	1,01 	0,54 	2,7 	1	1,06 	0,10 	1,00 	0,02 	1,07 	0,10 	orf153a	Hypothetical protein
+ATMG00020.1	28 	39 	39 	1,38 	1,38 	1,00 	-	-	-	-	-	-	-	-	RRN26	Mitochondrial 26S ribosomal RNA protein
+ATMG00030.1	18 	36 	29 	1,98 	1,59 	0,80 	-	-	-	-	-	-	-	-	orf107a	Hypothetical protein
+ATMG00040.1	5 	8 	4 	1,56 	0,81 	0,52 	-	-	-	-	-	-	-	-	orf315	Hypothetical protein
+ATMG00050.1	0 	0 	0 	0,51 	0,58 	1,14 	-	-	-	-	-	-	-	-	orf131	Hypothetical protein
+ATMG00060.1	339 	399 	398 	1,18 	1,18 	1,00 	-	-	-	-	-	-	-	-	nad5c	Mitochondrial NADH dehydrogenase subunit 5. The gene is trans-spliced from the three different pre-cursors, NAD5a, NAD5b and NAD5c.
+ATMG00070.1	185 	208 	236 	1,12 	1,28 	1,14 	3,2 	2	1,15 	0,17 	1,14 	0,12 	1,30 	0,19 	nad9	NADH dehydrogenase subunit 9
+ATMG00080.1	111 	158 	169 	1,42 	1,52 	1,07 	-	-	-	-	-	-	-	-	rpl16	Encodes a mitochondrial ribosomal protein L16, which is a constituent of the large ribosomal subunit
+ATMG00090.1	118 	156 	172 	1,32 	1,45 	1,10 	4,0 	1	0,94 	0,05 	1,18 	0,05 	1,13 	0,05 	rps3	Ribosomal protein S3
+ATMG00110.1	23 	29 	35 	1,23 	1,51 	1,23 	-	-	-	-	-	-	-	-	ccb206	Encodes a mitochondria-encoded cytochrome c biogenesis protein.
+ATMG00120.1	2 	3 	2 	1,92 	1,16 	0,60 	-	-	-	-	-	-	-	-	orf143	Hypothetical protein
+ATMG00130.1	7 	6 	7 	0,95 	0,99 	1,04 	-	-	-	-	-	-	-	-	orf121a	Hypothetical protein
+ATMG00140.1	5 	9 	8 	1,78 	1,58 	0,88 	-	-	-	-	-	-	-	-	orf167	Hypothetical protein
+ATMG00150.1	3 	2 	4 	0,61 	1,20 	1,96 	2,3 	1	0,47 	0,17 	3,03 	1,05 	0,97 	0,03 	orf116	Hypothetical protein
+ATMG00160.1	468 	494 	531 	1,06 	1,14 	1,08 	4,3 	3	0,81 	0,10 	1,33 	0,24 	1,07 	0,15 	cox2	Cytochrome c oxidase subunit 2
+ATMG00170.1	16 	29 	27 	1,83 	1,66 	0,90 	-	-	-	-	-	-	-	-	orf139a	Hypothetical protein
+ATMG00180.1	122 	164 	146 	1,34 	1,19 	0,89 	3,7 	2	1,04 	0,03 	0,90 	0,04 	0,94 	0,04 	ccb452	Cytochrome c biogenesis orf452
+ATMG00200.1	15 	25 	22 	1,61 	1,46 	0,91 	2,4 	2	3,92 	1,40 	0,94 	0,17 	3,51 	1,35 	orf107b	Hypothetical protein
+ATMG00210.1	215 	288 	331 	1,34 	1,54 	1,15 	-	-	-	-	-	-	-	-	rpl5	Encodes a mitochondrial ribosomal protein L5, a constituent of the large subunit of the ribosomal complex
+ATMG00220.1	561 	628 	587 	1,12 	1,05 	0,93 	4,3 	4	0,78 	0,23 	1,26 	0,34 	0,78 	0,08 	cob	Mitochondrial apocytochrome b (cob) gene encodes a subunit of the ubiquinol-cytochrome c oxidoreductase and is part of a 5 kb transcript. The transcript also contains a pseudogene for ribosomal protein S14 called RPS15 and a tRNA(Ser) gene. Both the Cob and RPS15 genes are edited in the transcript.
+ATMG00240.1	1 	2 	1 	1,32 	1,04 	0,79 	-	-	-	-	-	-	-	-	orf111a	Hypothetical protein
+ATMG00260.1	6 	5 	6 	0,80 	0,94 	1,17 	-	-	-	-	-	-	-	-	orf101a	Hypothetical protein
+ATMG00270.1	497 	544 	654 	1,09 	1,31 	1,20 	-	-	-	-	-	-	-	-	nad6	NADH dehydrogenase subunit 6
+ATMG00280.1	101130 	106930 	129420 	1,06 	1,28 	1,21 	20,8 	29	0,75 	0,10 	1,63 	0,21 	1,19 	0,08 	orf110a	Hypothetical protein
+ATMG00285.1	157 	175 	170 	1,11 	1,08 	0,97 	-	-	-	-	-	-	-	-	nad2a	Encodes subunit of mitochondrial NAD(P)H dehydrogenase that is trans-spliced from two precursors, NAD2A and NAD2B.
+ATMG00290.1	55 	71 	78 	1,29 	1,42 	1,10 	3,4 	2	0,72 	0,03 	0,76 	0,20 	0,54 	0,15 	rps4	Encodes a mitochondrial ribosomal protein S4, a constituent of the small subunit of the ribosomal complex
+ATMG00300.1	7 	14 	12 	1,93 	1,67 	0,86 	-	-	-	-	-	-	-	-	orf145a	Hypothetical protein
+ATMG00310.1	5 	5 	4 	1,12 	0,87 	0,77 	-	-	-	-	-	-	-	-	orf154	Hypothetical protein
+ATMG00320.1	1 	2 	2 	2,34 	1,50 	0,64 	-	-	-	-	-	-	-	-	orf127	Hypothetical protein
+ATMG00360.1	12 	11 	13 	0,90 	1,12 	1,25 	-	-	-	-	-	-	-	-	TRNC	A mitochondrion-encoded tRNA for cysteine
+ATMG00370.1	961 	686 	727 	0,71 	0,76 	1,06 	-	-	-	-	-	-	-	-	orf199	Hypothetical protein
+ATMG00400.1	33 	50 	50 	1,49 	1,50 	1,00 	2,8 	1	1,16 	0,08 	1,00 	0,08 	1,15 	0,05 	orf157	Hypothetical protein
+ATMG00410.1	343 	403 	431 	1,18 	1,26 	1,07 	-	-	-	-	-	-	-	-	atp6-1	ATPase subunit 6
+ATMG00430.1	5 	7 	7 	1,28 	1,37 	1,08 	-	-	-	-	-	-	-	-	orf106a	Hypothetical protein
+ATMG00440.1	4 	6 	7 	1,43 	1,75 	1,22 	-	-	-	-	-	-	-	-	orf152a	Hypothetical protein
+ATMG00450.1	4 	5 	2 	1,14 	0,60 	0,52 	-	-	-	-	-	-	-	-	orf106b	Hypothetical protein
+ATMG00470.1	1 	2 	0 	2,03 	0,58 	0,28 	-	-	-	-	-	-	-	-	orf122a	Hypothetical protein
+ATMG00480.1	894 	1014 	1251 	1,13 	1,40 	1,23 	6,2 	3	0,70 	0,13 	1,47 	0,51 	0,94 	0,26 	orfB	Encodes subunit 8 of the mitochondrial F(O) ATP synthase complex.
+ATMG00490.1	27 	38 	48 	1,40 	1,76 	1,25 	-	-	-	-	-	-	-	-	orf107c	Hypothetical protein
+ATMG00500.1	53 	69 	76 	1,30 	1,42 	1,09 	-	-	-	-	-	-	-	-	orf141	Hypothetical protein
+ATMG00510.1	213 	265 	272 	1,24 	1,28 	1,03 	6,5 	7	0,83 	0,17 	1,66 	0,33 	1,20 	0,11 	nad7	NADH dehydrogenase subunit 7
+ATMG00513.1	288 	335 	334 	1,16 	1,16 	1,00 	-	-	-	-	-	-	-	-	nad5a	Mitochondrial NADH dehydrogenase subunit 5. The gene is trans-spliced from three different pre-cursors, NAD5a, NAD5b and NAD5c.
+ATMG00516.1	281 	351 	353 	1,25 	1,26 	1,00 	-	-	-	-	-	-	-	-	nad1b	Encodes subunit of mitochondrial NAD(P)H dehydrogenase that is trans-spliced from three precursors, NAD1A, NAD1B, and NAD1C.
+ATMG00520.1	166 	255 	229 	1,53 	1,38 	0,90 	6,9 	3	0,70 	0,18 	1,46 	0,43 	0,90 	0,13 	matR	Hypothetical protein
+ATMG00530.1	14 	21 	20 	1,48 	1,45 	0,98 	-	-	-	-	-	-	-	-	orf109	Hypothetical protein
+ATMG00540.1	2 	3 	2 	1,75 	1,16 	0,66 	-	-	-	-	-	-	-	-	orf102b	Hypothetical protein
+ATMG00550.1	1 	3 	2 	2,09 	1,29 	0,62 	-	-	-	-	-	-	-	-	orf160	Hypothetical protein
+ATMG00560.1	199 	254 	250 	1,28 	1,26 	0,99 	-	-	-	-	-	-	-	-	rpl2	Encodes a mitochondrial ribosomal protein L2, a constituent of the large subunit of the ribosomal complex
+ATMG00570.1	32 	36 	36 	1,10 	1,11 	1,01 	-	-	-	-	-	-	-	-	orfX	Encodes a protein of unknown function. The transcript has extensive RNA editing at the 3' end. Protein has orthologous in other plants and sequence is similar to E. coli ORFs orf154 and orf131, both of unknown function. So far, similar proteins are found only in plants and prokaryotes.
+ATMG00580.1	491 	555 	576 	1,13 	1,17 	1,04 	-	-	-	-	-	-	-	-	nad4	NADH dehydrogenase subunit 4
+ATMG00590.1	14 	22 	19 	1,59 	1,37 	0,86 	-	-	-	-	-	-	-	-	orf313	Hypothetical protein
+ATMG00600.1	3 	8 	6 	2,74 	2,01 	0,74 	-	-	-	-	-	-	-	-	orf106c	Hypothetical protein
+ATMG00610.1	59 	58 	66 	0,99 	1,13 	1,14 	-	-	-	-	-	-	-	-	orf161	Hypothetical protein
+ATMG00620.1	16 	29 	27 	1,83 	1,66 	0,90 	-	-	-	-	-	-	-	-	orf139b	Hypothetical protein
+ATMG00630.1	2 	6 	7 	2,87 	3,47 	1,21 	-	-	-	-	-	-	-	-	orf110b	Hypothetical protein
+ATMG00640.1	130 	158 	178 	1,22 	1,37 	1,13 	2,6 	1	0,77 	0,28 	1,64 	0,47 	0,96 	0,18 	orf25	Encodes a plant b subunit of mitochondrial ATP synthase based on structural similarity and the presence in the F(0) complex.
+ATMG00650.1	83 	97 	91 	1,18 	1,10 	0,93 	-	-	-	-	-	-	-	-	nad4L	Encodes NADH dehydrogenase subunit 4L.
+ATMG00660.1	274 	379 	328 	1,38 	1,20 	0,87 	-	-	-	-	-	-	-	-	orf149	Hypothetical protein
+ATMG00670.1	89 	115 	106 	1,29 	1,19 	0,92 	-	-	-	-	-	-	-	-	orf275	Hypothetical protein
+ATMG00680.1	1 	1 	2 	1,20 	1,89 	1,58 	-	-	-	-	-	-	-	-	orf122c	Hypothetical protein
+ATMG00690.1	230 	273 	271 	1,19 	1,18 	0,99 	-	-	-	-	-	-	-	-	orf240a	Hypothetical protein
+ATMG00710.1	1 	1 	2 	1,12 	2,20 	1,97 	-	-	-	-	-	-	-	-	orf120	Hypothetical protein
+ATMG00720.1	1 	1 	1 	1,22 	0,93 	0,76 	2,0 	1	0,91 	0,13 	1,21 	0,04 	1,10 	0,15 	orf107d	Hypothetical protein
+ATMG00730.1	550 	619 	669 	1,12 	1,21 	1,08 	-	-	-	-	-	-	-	-	cox3	Encodes cytochrome c oxidase subunit 3.
+ATMG00740.1	2 	3 	3 	1,35 	1,39 	1,03 	-	-	-	-	-	-	-	-	orf100a	Hypothetical protein
+ATMG00750.1	1 	1 	1 	1,40 	1,59 	1,14 	-	-	-	-	-	-	-	-	orf119	Hypothetical protein
+ATMG00760.1	1 	2 	2 	2,03 	1,54 	0,76 	-	-	-	-	-	-	-	-	orf109b	Hypothetical protein
+ATMG00770.1	1 	2 	2 	1,32 	1,74 	1,31 	-	-	-	-	-	-	-	-	orf100b	Hypothetical protein
+ATMG00810.1	16 	18 	17 	1,08 	1,01 	0,93 	-	-	-	-	-	-	-	-	orf240b	Hypothetical protein
+ATMG00820.1	6 	9 	7 	1,35 	1,09 	0,80 	-	-	-	-	-	-	-	-	orf170	Hypothetical protein
+ATMG00830.1	23 	31 	30 	1,35 	1,32 	0,98 	2,2 	1	1,40 	0,05 	0,89 	0,03 	1,25 	0,03 	ccb382	Cytochrome c biogenesis orf382
+ATMG00840.1	2 	3 	3 	1,75 	1,54 	0,88 	1,5 	1	1,31 	0,21 	0,75 	0,21 	0,98 	0,32 	orf121b	Hypothetical protein
+ATMG00850.1	1 	2 	1 	1,32 	0,93 	0,70 	-	-	-	-	-	-	-	-	orf107e	Hypothetical protein
+ATMG00860.1	2 	3 	2 	1,57 	1,45 	0,92 	2,3 	1	0,88 	0,06 	0,95 	0,04 	0,84 	0,05 	orf158	Hypothetical protein
+ATMG00870.1	0 	0 	0 	0,58 	0,83 	1,42 	-	-	-	-	-	-	-	-	orf184	Hypothetical protein
+ATMG00880.1	0 	1 	1 	2,88 	1,74 	0,60 	-	-	-	-	-	-	-	-	orf187	Hypothetical protein
+ATMG00890.1	2 	2 	2 	0,84 	1,09 	1,30 	-	-	-	-	-	-	-	-	orf106d	Hypothetical protein
+ATMG00900.1	3 	4 	2 	1,34 	0,77 	0,58 	-	-	-	-	-	-	-	-	ccb256	Cytochrome c biogenesis orf256
+ATMG00910.1	3 	2 	2 	0,77 	0,74 	0,97 	-	-	-	-	-	-	-	-	orf215a	Hypothetical protein
+ATMG00920.1	16 	19 	18 	1,20 	1,16 	0,96 	-	-	-	-	-	-	-	-	orf215b	Hypothetical protein
+ATMG00940.1	8 	15 	13 	1,96 	1,73 	0,88 	-	-	-	-	-	-	-	-	orf164	Hypothetical protein
+ATMG00960.1	10 	12 	14 	1,21 	1,41 	1,16 	-	-	-	-	-	-	-	-	ccb203	Encodes a protein of the mitochondrial membrane which has been shown to be present in a number of unidentified complexes including a 500-KDa complex postulated to have heme lyase activity, in which another protein (AtCCMH, AT1G15220) is also involved. cytochrome c biogenesis orf203.
+ATMG00970.1	5 	8 	10 	1,64 	1,94 	1,18 	-	-	-	-	-	-	-	-	orf117	Hypothetical protein
+ATMG00980.1	114 	146 	161 	1,28 	1,41 	1,11 	-	-	-	-	-	-	-	-	rpsl2	Ribosomal protein L2
+ATMG00990.1	81 	81 	79 	1,00 	0,98 	0,98 	-	-	-	-	-	-	-	-	nad3	NADH dehydrogenase subunit 3
+ATMG01000.1	57 	72 	55 	1,26 	0,97 	0,76 	-	-	-	-	-	-	-	-	orf114	Hypothetical protein
+ATMG01010.1	34 	53 	39 	1,54 	1,15 	0,74 	-	-	-	-	-	-	-	-	orf118	Hypothetical protein
+ATMG01020.1	39 	40 	39 	1,01 	1,00 	0,99 	-	-	-	-	-	-	-	-	orf135b	Hypothetical protein
+ATMG01030.1	1 	5 	3 	3,38 	1,74 	0,51 	-	-	-	-	-	-	-	-	orf106e	Hypothetical protein
+ATMG01040.1	6 	8 	10 	1,36 	1,62 	1,19 	-	-	-	-	-	-	-	-	orf107f	Hypothetical protein
+ATMG01050.1	8 	6 	7 	0,78 	0,95 	1,22 	-	-	-	-	-	-	-	-	orf159	ORF59
+ATMG01060.1	2 	2 	3 	0,95 	1,66 	1,75 	-	-	-	-	-	-	-	-	orf107g	Hypothetical protein
+ATMG01080.1	3494 	3566 	3682 	1,02 	1,05 	1,03 	-	-	-	-	-	-	-	-	atp9	Subunit 9 of mitochondrial F0-ATPase
+ATMG01090.1	95 	106 	92 	1,12 	0,96 	0,86 	-	-	-	-	-	-	-	-	orf262	Hypothetical protein
+ATMG01100.1	2 	2 	2 	1,02 	1,23 	1,21 	-	-	-	-	-	-	-	-	orf105a	Hypothetical protein
+ATMG01110.1	3 	4 	4 	1,16 	1,14 	0,98 	-	-	-	-	-	-	-	-	orf251	Hypothetical protein
+ATMG01120.1	25 	28 	32 	1,09 	1,28 	1,17 	-	-	-	-	-	-	-	-	nad1a	Encodes subunit of mitochondrial NAD(P)H dehydrogenase that is trans-spliced from three precursors, NAD1A, NAD1B, and NAD1C.
+ATMG01130.1	110 	185 	175 	1,69 	1,60 	0,95 	-	-	-	-	-	-	-	-	orf106f	Hypothetical protein
+ATMG01140.1	4 	6 	7 	1,43 	1,75 	1,22 	-	-	-	-	-	-	-	-	orf152b	Hypothetical protein
+ATMG01150.1	5 	7 	7 	1,28 	1,37 	1,08 	-	-	-	-	-	-	-	-	orf106g	Hypothetical protein
+ATMG01160.1	1 	2 	1 	2 	1,74 	0,85 	-	-	-	-	-	-	-	-	TRNS.5	tRNA-Ser
+ATMG01170.1	113 	131 	146 	1,16 	1,29 	1,11 	-	-	-	-	-	-	-	-	atp6-2	ATPase subunit 6
+ATMG01180.1	2 	2 	1 	1,02 	0,31 	0,30 	-	-	-	-	-	-	-	-	orf111b	Hypothetical protein
+ATMG01190.1	1548 	1994 	2012 	1,29 	1,30 	1,01 	53,1 	34	0,75 	0,04 	1,80 	0,35 	1,34 	0,26 	atp1	ATPase subunit 1
+ATMG01200.1	623 	826 	710 	1,33 	1,14 	0,86 	-	-	-	-	-	-	-	-	orf294	Hypothetical protein
+ATMG01210.1	29 	35 	38 	1,22 	1,34 	1,10 	-	-	-	-	-	-	-	-	orf101b	Hypothetical protein
+ATMG01220.1	106 	120 	105 	1,14 	0,99 	0,87 	-	-	-	-	-	-	-	-	orf113	Hypothetical protein
+ATMG01230.1	4 	6 	6 	1,44 	1,37 	0,96 	-	-	-	-	-	-	-	-	orf145b	Hypothetical protein
+ATMG01240.1	2 	4 	2 	1,50 	0,97 	0,65 	-	-	-	-	-	-	-	-	orf100c	Hypothetical protein
+ATMG01250.1	1 	5 	3 	3,12 	2,07 	0,66 	-	-	-	-	-	-	-	-	orf102	Hypothetical protein
+ATMG01260.1	5 	6 	5 	1,38 	1,05 	0,76 	-	-	-	-	-	-	-	-	orf205	Hypothetical protein
+ATMG01270.1	25 	31 	31 	1,20 	1,23 	1,02 	-	-	-	-	-	-	-	-	rps7	Encodes a mitochondrial ribosomal protein S7, a constituent of the small subunit of the ribosomal complex
+ATMG01275.1	95 	104 	127 	1,10 	1,33 	1,21 	-	-	-	-	-	-	-	-	nad1	Encodes subunit of mitochondrial NAD(P)H dehydrogenase that is trans-spliced from three precursors, NAD1A, NAD1B, and NAD1C.
+ATMG01280.1	73 	98 	106 	1,34 	1,45 	1,08 	-	-	-	-	-	-	-	-	orf291	Encodes a cytochrome c oxidase subunit II
+ATMG01290.1	1 	2 	3 	2,03 	2,78 	1,37 	-	-	-	-	-	-	-	-	orf111c	Hypothetical protein
+ATMG01300.1	1 	1 	1 	1,22 	0,58 	0,47 	-	-	-	-	-	-	-	-	orf136a	Hypothetical protein
+ATMG01310.1	1 	1 	1 	1,27 	1,59 	1,25 	-	-	-	-	-	-	-	-	orf136b	Hypothetical protein
+ATMG01320.1	280 	322 	330 	1,15 	1,18 	1,02 	-	-	-	-	-	-	-	-	nad2b	Encodes subunit of mitochondrial NAD(P)H dehydrogenase that is trans-spliced from two precursors, NAD2A and NAD2B.
+ATMG01330.1	55 	79 	84 	1,42 	1,51 	1,06 	-	-	-	-	-	-	-	-	orf107h	Hypothetical protein
+ATMG01350.1	29 	39 	29 	1,31 	1,00 	0,76 	-	-	-	-	-	-	-	-	orf145c	Hypothetical protein
+ATMG01360.1	1009 	1129 	1180 	1,12 	1,17 	1,05 	-	-	-	-	-	-	-	-	cox1	Cytochrome c oxidase subunit 1
+ATMG01370.1	21 	22 	19 	1,04 	0,88 	0,84 	-	-	-	-	-	-	-	-	orf111d	Hypothetical protein
+ATMG01380.1	25 	33 	28 	1,29 	1,10 	0,85 	-	-	-	-	-	-	-	-	RRN5	Mitochondrial 5S ribosomal RNA, which is a component of the 50S large subunit of mitochondrial ribosome.
+ATMG01390.1	18 	23 	21 	1,25 	1,12 	0,89 	-	-	-	-	-	-	-	-	RRN18	Mitochondrial 18S ribosomal RNA, which is a component of the 30S small subunit of mitochondrial ribosome. The rRNA is degraded by a polynucleotide phosphorylase-like protein (AtmtPNPase).
+ATMG01400.1	1 	1 	0 	1,02 	0,23 	0,23 	-	-	-	-	-	-	-	-	orf105b	Hypothetical protein
+ATMG01410.1	1 	1 	1 	1,85 	1,16 	0,63 	-	-	-	-	-	-	-	-	orf204	"Open reading frame 204 (ORF204); FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: RNA-dependent RNA polymerase, mitoviral (InterPro:IPR008686); BEST Arabidopsis thaliana protein match is: Mitovirus RNA-dependent RNA polymerase (TAIR:ATMG01110.1)."
+																
+"""-"" means data were not available"																
