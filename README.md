@@ -1,5 +1,3 @@
-class: center, middle
-
 # Cours bioinformatique session 2024
 Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce dépôt toutes les informations et ressources nécessaires. A noter que la présence physique à ce cours est plus que nécessaire voir obligatoire.
 ---
@@ -66,7 +64,7 @@ python3 -m pip install bash_kernel
 ```bash
 jupyter notebook
 ```
-
+---
 ## 2. Installation de Cygwin sous Windows
 Si vous n'avez pas pu installer UBUNTU sous Windows, vous pouvez installer Cygwin pour exécuter les commandes Unix. Pour installer Cygwin, vous pouvez suivre les étapes suivantes :
 
