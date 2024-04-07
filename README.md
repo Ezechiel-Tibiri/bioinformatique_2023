@@ -1,4 +1,5 @@
-# Cours d'introduction à la bioinformatique session 2024
+# Introduction à la bioinformatique
+
 Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce dépôt toutes les informations et ressources nécessaires. A noter que la présence physique à ce cours est plus que nécessaire voir obligatoire.
 ---
 ## Intervenants
