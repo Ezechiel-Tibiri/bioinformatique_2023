@@ -11,6 +11,12 @@ Dans un premier temps, nous vous suggérons d'acquérir les bases de la biologie
 
 *Temps estimé : 4 heures.
 
+Vous aurez besoin d'un ordinateur répondant aux spécifications minimales suivantes :
+
+> > Un processeur avec une capacité minimale de 4 cœurs (CPU).
+> > Au moins 8 Go de mémoire vive (RAM).
+> > Un espace de stockage d'au moins 250 Go disponible.
+
 class: left, top
 ---
 # Introduction à la programmation en bioinformatique
