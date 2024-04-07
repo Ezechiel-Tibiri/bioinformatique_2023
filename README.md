@@ -25,7 +25,7 @@ La programmation est devenue un élément indispensable dans le domaine de la bi
 ## 1. Intaller UBUNTU 22.04 LTS sous Windows 10+
 ### 1.1. Installez Bash pour Windows en suivant les instructions
 
-La première étape consiste à installer Bash pour Windows. Vous pouvez le faire en suivant les instructions fournies dans les liens suivants :
+La première étape consiste à installer Linux pour Windows. Vous pouvez le faire en suivant les instructions fournies dans les liens suivants :
 
 * Pour Windows 10. Vous pouvez installer très rapidement un shell Linux. Voici quelques liens pour y arriver :
   * [Installer le shell Bash Linux sous Windows 10 avec WSL](https://www.youtube.com/watch?v=CyG16N3GJWo), 2020.
