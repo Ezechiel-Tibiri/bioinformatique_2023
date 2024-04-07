@@ -10,6 +10,7 @@ Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce d
 Dans un premier temps, nous vous suggérons d'acquérir les bases de la biologie moléculaire ainsi que de la génomique et du séquençage d'ADN.
 
 *Temps estimé : 4 heures.
+
 class: left, top
 ---
 # Introduction à la programmation en bioinformatique
