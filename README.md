@@ -27,10 +27,10 @@ La première étape consiste à installer Bash pour Windows. Vous pouvez le fair
   * [Everything You Can Do With Windows 10’s New Bash Shell](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/), 2018.
   Ensuite, vous pouvez ouvrir Bash et exécuter la commande suivante pour mettre à jour et installer les packages Python nécessaires :
   
- ```
+ ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip python3-dev python3-setuptools
-
+sudo apt install git
  ```
 
 ### 1.2. Installation de Jupyter Notebook
