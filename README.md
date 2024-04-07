@@ -2,7 +2,7 @@ class: center, middle
 
 # Cours bioinformatique session 2024
 Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce dépôt toutes les informations et ressources nécessaires. A noter que la présence physique à ce cours est plus que nécessaire voir obligatoire.
-
+---
 ## Intervenants
 * Ezechiel B. TIBIRI, INERA/CNRST, ezechiel.tibiri@ujkz.bf <br/> 
 
@@ -10,8 +10,8 @@ Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce d
 Dans un premier temps, nous vous suggérons d'acquérir les bases de la biologie moléculaire ainsi que de la génomique et du séquençage d'ADN.
 
 *Temps estimé : 4 heures.
-
-
+class: left, top
+---
 # Introduction à la programmation en bioinformatique
 
 La programmation est devenue un élément indispensable dans le domaine de la bioinformatique pour l'analyse et la gestion des données biologiques. Dans ce cours, nous allons voir comment installer l'environnement de développement pour la programmation en bioinformatique sur Windows en utilisant Ubuntu 22.04 LTS ou Cygwin.
