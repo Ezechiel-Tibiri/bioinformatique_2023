@@ -37,7 +37,7 @@ Ensuite :
 Téléchargez ensuite les fichiers des jeux de données du cours avec la commande :
 
 ```bash
-$ git clone git@github.com:Ezechiel-Tibiri/bioinformatique_2023.git
+$ git clone https://github.com/Ezechiel-Tibiri/bioinformatique_2023.git
 ```
 
 Remarques :
