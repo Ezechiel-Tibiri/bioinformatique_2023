@@ -34,7 +34,7 @@ Ensuite :
 > > Vous devriez obtenir un chemin du type `/home/ezechiel/bioinfo` où `ezechiel` est remplacé par votre nom d'utilisateur.
 {:.answer}
 
-Téléchargez ensuite les fichiers des jeux de données du DUBii avec la commande :
+Téléchargez ensuite les fichiers des jeux de données du cours avec la commande :
 
 ```bash
 $ git clone git@github.com:Ezechiel-Tibiri/bioinformatique_2023.git
