@@ -98,7 +98,7 @@ Le délimitateur par défaut est la tabulation, on peut le changer avec l'option
 Exemple : extraction de la deuxième colonne d'un fichier au format csv
 
 ```bash
-$ cut -d "," -f 2 <CSV_FILE>
+$ cut -d"," -f2 <CSV_FILE>
 ```
 
 **Question 3** : Rendez-vous dans le répertoire `Escherichia_coli/bacterial-regulons_myers_2013/data/RNA-seq`.
@@ -106,13 +106,13 @@ Extraire de deux manières différentes la colonne Geneid du fichier `cutadapt_b
 
 > **Solution :**   
 > > ```bash
-> > $ cut -f 1 cutadapt_bwa_featureCounts_all.tsv 
+> > $ cut -f1 cutadapt_bwa_featureCounts_all.tsv 
 > > [...]
 > > b4400
 > > b4401
 > > b4402
 > > b4403
-> > $ cut -c 1-6 cutadapt_bwa_featureCounts_all.tsv
+> > $ cut -c1-6 cutadapt_bwa_featureCounts_all.tsv
 > > [...]
 > > b4400
 > > b4401
@@ -136,7 +136,7 @@ dans le fichier `cutadapt_bwa_featureCounts_WT1_sorted.tsv`.
 
 > **Solution :**  
 > > ```bash  
-> > cut -f 2 cutadapt_bwa_featureCounts_all.tsv > cutadapt_bwa_featureCounts_WT1.tsv
+> > cut -f2 cutadapt_bwa_featureCounts_all.tsv > cutadapt_bwa_featureCounts_WT1.tsv
 > > sort -g cutadapt_bwa_featureCounts_WT1.tsv > cutadapt_bwa_featureCounts_WT1_sorted.tsv
 > > ```
 {:.answer}
@@ -252,7 +252,7 @@ Indication : les noms de gènes se trouvent dans la 9ème colonne du fichier gff
 > **Solution :**     
 >>
 >> ```bash
->> $ cut -f 9 ~/Documents/2024/cours/bioinformatique_2023/data/study-cases/Escherichia_coli/Escherichia_coli_str_k_12_substr_mg1655.ASM584v2.37.chromosome.Chromosome.gff3 | cut -d ";" -f 1 | grep "ID=gene" | sort -u | wc -l
+>> $ cut -f9 ~/Documents/2024/cours/bioinformatique_2023/data/study-cases/Escherichia_coli/Escherichia_coli_str_k_12_substr_mg1655.ASM584v2.37.chromosome.Chromosome.gff3 | cut -d ";" -f 1 | grep "ID=gene" | sort -u | wc -l
 >>  4497
 >>  ```   
 {:.answer}
