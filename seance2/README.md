@@ -34,7 +34,7 @@ nom ou une partie du nom du fichier recherché
 **Syntaxe** : `find [chemin] -name <MOTIF>`  
 
 **Question 1** : Aller dans le répertoire `study-cases` (situé dans le 
-répertoire `~/dubii`) et rechercher tous les
+répertoire `~/bioinfo`) et rechercher tous les
 fichiers au format bed (i.e. dont l'extension est `.bed`)
 
 > **Solution :**: 
