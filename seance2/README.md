@@ -293,7 +293,7 @@ Les expressions régulières vont se baser sur des caractères spéciaux ou mét
 - `^` indique une recherche d'un motif en début de ligne  
 - `$` indique une recherche d'un motif en fin de ligne  
 
-**Question :** Rechercher tous les noms de gènes nommés dnaA, dnaB, dnaC
+**Question 10 :** Rechercher tous les noms de gènes nommés dnaA, dnaB, dnaC
 et dnaD dans le fichier
 `Escherichia_coli_str_k_12_substr_mg1655.ASM584v2.37.chromosome.Chromosome.gff3`
 
@@ -350,7 +350,7 @@ un crash pur et simple du système.
 La commande `df` permet de connaître les quantités d'espace occupé et disponible
 pour tous les disques du système.
 
-**Question**: Quelle est la quantité d'espace disque disponible sur votre machine ?
+**Question 11:** Quelle est la quantité d'espace disque disponible sur votre machine ?
 
 > **Solution**
 > > La commande à utiliser est `df -h`, l'option `-h` signifiant "human readable".
@@ -363,7 +363,7 @@ pour tous les disques du système.
 Comme vu précédemment, la commande pour connaître la taille des fichiers présents
 dans un dossier est `ls -lh`.
 
-**Question**: Rendez-vous dans le dossier `~/bioinfo/bioinformatique_2023/data/study-cases/Arabidopsis_thaliana/transcripto_proteo_metabo_Liang_2016`.
+**Question 12:** Rendez-vous dans le dossier `~/bioinfo/bioinformatique_2023/data/study-cases/Arabidopsis_thaliana/transcripto_proteo_metabo_Liang_2016`.
 Quelle est la quantité d'espace disque occupée par chacun des fichiers présents
 dans ce répertoire ? Trier les fichiers du plus volumineux au moins volumineux.
 
@@ -402,7 +402,7 @@ total 24M
 Pour connaître la quantité d'espace disque occupée par un dossier, utiliser
 la commande `du`, encore une fois avec l'option `-h`.
 
-**Question**: Afficher la taille des sous-dossiers du dossier `study-cases`.
+**Question 13:** Afficher la taille des sous-dossiers du dossier `study-cases`.
 
 
 > **Solution**:
@@ -448,7 +448,7 @@ Il s'agit de compresser un fichier.
 Plusieurs outils de compression existent, le plus courant sous unix étant `gzip`
 et l'outil de décompression associé `gunzip`.
 
-**Question**: Quelle est la taille du fichier `~/bioinfo/bioinformatique_2023/data/study-cases/Arabidopsis_thaliana/transcripto_proteo_metabo_Liang_2016/12870_2016_726_MOESM1_ESM.tsv` ?
+**Question 14:** Quelle est la taille du fichier `~/bioinfo/bioinformatique_2023/data/study-cases/Arabidopsis_thaliana/transcripto_proteo_metabo_Liang_2016/12870_2016_726_MOESM1_ESM.tsv` ?
 Le compresser avec `gzip`. Quelle est la taille du fichier compressé ?
 
 > **Solution** :
