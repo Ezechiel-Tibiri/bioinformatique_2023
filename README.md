@@ -72,3 +72,7 @@ Si vous n'avez pas pu installer UBUNTU sous Windows, vous pouvez installer Cygwi
 2.1. Téléchargement et installation de Cygwin :
 
 Téléchargez le fichier d'installation de Cygwin depuis le site web officiel de Cygwin à l'adresse https://cygwin.com/install.html. Double-cliquez sur le fichier d'installation pour lancer l'assistant d'installation. Choisissez un répertoire d'installation pour Cygwin. Par défaut, il est installé dans C:\cygwin. Choisissez un serveur de miroir Cygwin pour télécharger les paquets. Il est recommandé de choisir un serveur proche de votre emplacement géographique. Sélectionnez les paquets à installer en utilisant le bouton "Sélectionner les paquets" dans l'assistant d'installation. Il est recommandé de sélectionner les paquets de base, tels que `bash`, `gcc`, `make` et `openssh`. Cliquez sur le bouton "Installer".
+
+
+## [3. Basic Linux Command](https://github.com/Ezechiel-Tibiri/bioinformatique_2023/blob/main/doc/README.md)
+
