@@ -138,10 +138,10 @@ Pour connaître la quantité d'espace disque occupée par un dossier, utilisez l
 
 **Question 2.2** : Déterminez la taille du répertoire `study-cases`.
 
-Rappel : si vous avez bien suivi les instructions depuis le début, le répertoire `study-cases` est normalement dans le répertoire `dubii` dans votre repertoire personnel.
+Rappel : si vous avez bien suivi les instructions depuis le début, le répertoire `study-cases` est normalement dans le répertoire `data` dans votre repertoire personnel.
 
 > **Réponse**
-> > Le chemin du répertoire `study-cases` depuis le répertoire personnel (représenté par `~`) est donc `~/dubii/study-cases`.
+> > Le chemin du répertoire `study-cases` depuis le répertoire personnel (représenté par `~`) est donc `~/bioinformatique_2023/data/study-cases`.
 > > ```bash
 > > $ du -sh ~/Documents/2024/cours/bioinformatique_2023/data/study-cases
  30M	/home/ezechiel/Documents/2024/cours/bioinformatique_2023/data/study-cases
